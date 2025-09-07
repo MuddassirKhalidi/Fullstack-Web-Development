@@ -5,7 +5,9 @@
 - Don't have more than one ```<h1>``` heading
 - Don't skip levels between different headings. For example:
 
-```<h1></h1>
+```
+<h1></h1>
+
 <h3></h3>
 ```
 
